@@ -70,7 +70,7 @@
   "course-authoring.custom-pages.errorAlert.message": "Невозможно открыть страницу {actionName} . Пожалуйста, попробуйте еще раз.",
   "course-authoring.custom-pages.note": "Внимание: страницы общедоступны. Если у пользователей есть ссылка на страницу, они смогут просматривать её, даже если они не записаны на курс и не вошли на сайт.",
   "course-authoring.custom-pages.header.addPage.label": "Новая страница",
-  "course-authoring.custom-pages.header.viewLive.label": "Посмотреть в прямом эфире",
+  "course-authoring.custom-pages.header.viewLive.label": "Превью",
   "course-authoring.custom-pages.pageExplanation.header": "Какие страницы?",
   "course-authoring.custom-pages.pageExplanation.body": "Названия страниц расположены горизонтально над содержимым курса. После основных страниц (Главная, Курс, Обсуждение, Вики и Прогресс) отображаются учебники и добавленные вами дополнительные страницы.",
   "course-authoring.custom-pages.customPagesExplanation.header": "Дополнительные страницы",
